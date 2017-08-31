@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ApexVcsIndex">
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/CollectionCards/Card.java" />
+      <option name="path" value="/src/main/java/Cards/Card.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/CollectionCards/Deck.java" />
+      <option name="path" value="/src/main/java/Cards/Deck.java" />
+    </index-move-record>
+    <index-move-record>
+      <option name="firstPath" value="/src/main/java/CollectionCards/Collection.java" />
+      <option name="path" value="/src/main/java/Cards/Collection.java" />
+    </index-move-record>
+  </component>
+</project>
